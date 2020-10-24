@@ -4,7 +4,7 @@
 	<img src="/bee.png" width="600px" hight="100px">
 </p>
 
-# <p align="center">Shark
+# <p align="center">BEE
 
 <p align="center">
 <a href="https://github.com/bhikandeshmukh"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
