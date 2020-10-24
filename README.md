@@ -6,12 +6,13 @@
 
 # <p align="center">Shark
 
+<p align="center">
+<a href="https://github.com/bhikandeshmukh"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+ <a href="https://github.com/bhikandeshmukh/Termux-Keys"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
+ <a href="https://github.com/bhikandeshmukh"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/BEE?style=social" ></a>
+</p>
+
 ### BEE is a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com).
-
-
-## Legal Disclaimer:
-
-Usage of BEE for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
 ## Installing (Tested on Kali Linux, Termux & Ubuntu):
 
@@ -20,6 +21,10 @@ git clone https://github.com/bhikandeshmukh/BEE
 cd maskphish
 ./maskphish
 ```
+
+## Legal Disclaimer:
+
+Usage of BEE for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
 <p align="center">
 <h4 align="center">♨️ FOLLOW ♨️<h4 align="center">
