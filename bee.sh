@@ -19,7 +19,7 @@ echo -e "\e[1;31;42m| |_) |  __/  __/ \e[0m"
 echo -e "\e[1;31;42m|____/ \___|\___| v.0.1 \e[0m"
 echo
 echo -e "\e[32m============================================\e[m "
-echo -e "\e[31m[\e[32m★\e[31m]\e[93m Instagram : bhikan_deshmukh \e[31m [\e[32m★\e[31m]\e[m "
+echo -e "\e[31m    [\e[32m★\e[31m]\e[93m Instagram : bhikan_deshmukh \e[31m [\e[32m★\e[31m]\e[m "
 echo -e "\e[32m============================================\e[m " 
 echo
 echo
