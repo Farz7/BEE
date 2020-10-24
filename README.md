@@ -18,8 +18,9 @@
 
 ```
 git clone https://github.com/bhikandeshmukh/BEE
-cd maskphish
-./maskphish
+cd BEE
+chmod +x bee.sh
+./bee.sh
 ```
 
 ## Legal Disclaimer:
