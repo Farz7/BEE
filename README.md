@@ -1,7 +1,7 @@
 <p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg"> </a>
 
 <p align="center">
-	<img src="/bee.png" width="600px" hight="100px">
+	<img src="res/bee.png" width="600px" hight="100px">
 </p>
 
 # <p align="center">BEE
